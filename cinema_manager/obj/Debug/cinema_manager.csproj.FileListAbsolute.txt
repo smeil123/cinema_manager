@@ -1,0 +1,16 @@
+c:\users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\bin\Debug\cinema_manager.exe.config
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\bin\Debug\cinema_manager.exe
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\bin\Debug\cinema_manager.pdb
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.Form1.resources
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.Properties.Resources.resources
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.csproj.GenerateResource.Cache
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.exe
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.pdb
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.csprojResolveAssemblyReference.cache
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.MovieInsert.resources
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.MoviePhotoInsert.resources
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.ScreenInsert.resources
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.MovieUpdate.resources
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.ScreenSeatInsert.resources
+C:\Users\dmswl\documents\visual studio 2013\Projects\cinema_manager\cinema_manager\obj\Debug\cinema_manager.Revenue.resources
