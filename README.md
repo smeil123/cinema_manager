@@ -9,6 +9,7 @@
 - 주요기능 및 동작 화면
 
 # 영화 예매 사용자 프로그램 주소
+https://github.com/shkim52/db_cinema
 
 # 개발환경
 - 개발 언어 : C# .Net Framework
