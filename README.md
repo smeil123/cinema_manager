@@ -22,11 +22,11 @@ https://github.com/shkim52/db_cinema
 
 # 주요기능 및 동작 화면
 ## 영화정보 관리
-<img src="./image/movie_info.jpg" width="50%" height="50%"></img>
+<img src="./image/movie_info.jpg" width="70%" height="50%"></img>
 ## 영화사진 입력
-<img src="./image/movie_photo.jpg" width="50%" height="50%"></img>
+<img src="./image/movie_photo.jpg" width="70%" height="50%"></img>
 ## 영화정보 검색 및 수정
-<img src="./image/movie_search.jpg" width="50%" height="50%"></img>
+<img src="./image/movie_search.jpg" width="70%" height="50%"></img>
 ## 상영관 정보 입력 및 수정
 <img src="./image/theather_insert.jpg" width="50%" height="50%"></img>
 ## 좌석정보 입력 및 수정
