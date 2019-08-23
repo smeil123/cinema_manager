@@ -18,41 +18,42 @@ https://github.com/shkim52/db_cinema
 - 버전관리 : Git
 
 # DB ERDiagram
+![ERD](./image/ERD.png)
 
 # 주요기능 및 동작 화면
 ## 영화정보 관리
-![movie_info](./image/movie_info.JPG)
+![movie_info](./image/movie_info.jpg)
 
 ## 영화사진 입력
-![movie_photo](./image/movie_photo.JPG)
+![movie_photo](./image/movie_photo.jpg)
 
 ## 영화정보 검색 및 수정
-![movie_search](./image/movie_search.JPG)
+![movie_search](./image/movie_search.jpg)
 
 ## 상영관 정보 입력 및 수정
-![theather_insert](./image/theather_insert.JPG)
+![theather_insert](./image/theather_insert.jpg)
 
 ## 좌석정보 입력 및 수정
-![seat](./image/seat.JPG)
+![seat](./image/seat.jpg)
 
 ## 상영일정 입력
-![schedule_insert](./image/schedule_insert.JPG)
+![schedule_insert](./image/schedule_insert.jpg)
 
 ## 상영일정 검색 및 삭제
-![schedule_search](./image/schedule_search.JPG)
+![schedule_search](./image/schedule_search.jpg)
 
 ## 고객정보 확인 및 강제탈퇴
-![custoer](./image/custoer.JPG)
+![custoer](./image/custoer.jpg)
 
 ## 예매정보 검색 및 예매취소
-![ticket](./image/ticket.JPG)
+![ticket](./image/ticket.jpg)
 
 ## 영화별 누적 관객 수 조회
-![total](./image/total.JPG)
+![total](./image/total.jpg)
 
 ## 연령별 영화선호도 조회
-![age_total](./image/age_total.JPG)
+![age_total](./image/age_total.jpg)
 
 ## 월별 매출 조회
-![m_total](./image/m_total.JPG)
+![m_total](./image/m_total.jpg)
 
