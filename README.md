@@ -22,38 +22,26 @@ https://github.com/shkim52/db_cinema
 
 # 주요기능 및 동작 화면
 ## 영화정보 관리
-![movie_info](./image/movie_info.jpg)
-
+<img src="./image/movie_info.jpg" width="50%" height="50%"></img>
 ## 영화사진 입력
-![movie_photo](./image/movie_photo.jpg)
-
+<img src="./image/movie_photo.jpg" width="50%" height="50%"></img>
 ## 영화정보 검색 및 수정
-![movie_search](./image/movie_search.jpg)
-
+<img src="./image/movie_search.jpg" width="50%" height="50%"></img>
 ## 상영관 정보 입력 및 수정
-![theather_insert](./image/theather_insert.jpg)
-
+<img src="./image/theather_insert.jpg" width="50%" height="50%"></img>
 ## 좌석정보 입력 및 수정
-![seat](./image/seat.jpg)
-
+<img src="./image/seat.jpg" width="50%" height="50%"></img>
 ## 상영일정 입력
-![schedule_insert](./image/schedule_insert.jpg)
-
+<img src="./image/schedule_insert.jpg" width="50%" height="50%"></img>
 ## 상영일정 검색 및 삭제
-![schedule_search](./image/schedule_search.jpg)
-
+<img src="./image/schedule_search.jpg" width="50%" height="50%"></img>
 ## 고객정보 확인 및 강제탈퇴
-![custoer](./image/custoer.jpg)
-
+<img src="./image/custoer.jpg" width="50%" height="50%"></img>
 ## 예매정보 검색 및 예매취소
-![ticket](./image/ticket.jpg)
-
+<img src="./image/ticket.jpg" width="50%" height="50%"></img>
 ## 영화별 누적 관객 수 조회
-![total](./image/total.jpg)
-
+<img src="./image/total.jpg" width="50%" height="50%"></img>
 ## 연령별 영화선호도 조회
-![age_total](./image/age_total.jpg)
-
+<img src="./image/age_total.jpg" width="50%" height="50%"></img>
 ## 월별 매출 조회
-![m_total](./image/m_total.jpg)
-
+<img src="./image/m_total.jpg" width="50%" height="50%"></img>
