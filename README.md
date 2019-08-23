@@ -18,7 +18,8 @@ https://github.com/shkim52/db_cinema
 - 버전관리 : Git
 
 # DB ERDiagram
-![ERD](./image/ERD.png){: width="50%" height="50%"}
+<img width="50%" height="50%">
+![ERD](./image/ERD.png)</img>
 
 # 주요기능 및 동작 화면
 ## 영화정보 관리
